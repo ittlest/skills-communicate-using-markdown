@@ -9,3 +9,7 @@
 ``` javascript
 var myGoat = "LEBRON JAMES!";
 ```
+
+- [x] Wake up.
+- [ ] Make bed.
+- [X] Put on swag.
